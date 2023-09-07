@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manager/CrackHash.manager.test.iml" filepath="$PROJECT_DIR$/.idea/modules/manager/CrackHash.manager.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/worker/CrackHash.worker.test.iml" filepath="$PROJECT_DIR$/.idea/modules/worker/CrackHash.worker.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/worker/hash-cracker.worker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/worker/hash-cracker.worker.main.iml" />
+    </modules>
+  </component>
+</project>
